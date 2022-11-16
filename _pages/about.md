@@ -7,3 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+---
+layout: archive
+title: "Talks and presentations"
+permalink: /
+author_profile: true
+---

@@ -1,1 +1,1 @@
-Sitemap: https://tml-seminar.github.io/sitemap.xml
+Sitemap: https://tml-epfl.github.io/sitemap.xml
