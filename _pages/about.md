@@ -12,7 +12,6 @@ redirect_from:
 This is the page of the Wednesday 4pm seminar of Nicolas Flammarion's group TML.
 
 We try to gather here the precise dates, speakers, presentation materials as well as ideas for next seminars. Topics of interest cover a wide range of theoretical Machine Learning, more precisely and without any precise hierarchy:
-======
 * The algorithmic regularization of learning or in modern terms implicit bias
 * The effect of noise in learning dynamics
 * The benign overfitting phenomenon
