@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Theory of Machine Learning Group Seminar"
+title                    : "Theory of Machine Learning @ EPFL"
 title_separator          : "-"
 name                     : &name "TML"
-description              : &description "Past and upcoming talks and all related information for the weekly TML group meetings."
-url                      : https://tml-seminar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "todo"
+url                      : https://tml-epfl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "tml-epfl/tml-seminar.github.io"
+repository               : "tml-epfl/tml-epfl.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
